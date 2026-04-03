@@ -1,3 +1,4 @@
+
 class HelloMessage {
     public static void main(String args[]) {
         
@@ -7,6 +8,6 @@ class HelloMessage {
         else {
             System.out.println("Hello User");
         }
+        }
+        }
 
-    }
-}
